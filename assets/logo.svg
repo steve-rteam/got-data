@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="640" height="160">
+  <!-- Background: transparent (dark context assumed) -->
+
+  <!-- Icon mark (44x44, centered in 56x80 left zone, vertically centered at y=20..64) -->
+  <!-- Arc: open circle from ~30deg gap at top-right, representing data container -->
+  <g transform="translate(12, 8)">
+    <!-- Outer arc -->
+    <path d="M50 40C50 51.046 41.046 60 30 60C18.954 60 10 51.046 10 40C10 28.954 18.954 20 30 20C38.284 20 45.4 24.9 48.6 32"
+      stroke="#F0EFF8" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+    <!-- Teal horizontal bridge -->
+    <line x1="34" y1="40" x2="50" y2="40" stroke="#2DD4BF" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- Teal center dot -->
+    <circle cx="30" cy="40" r="4.5" fill="#2DD4BF"/>
+    <!-- Small tick mark on bridge -->
+    <line x1="43" y1="36" x2="43" y2="44" stroke="#2DD4BF" stroke-width="1.5" stroke-linecap="round" opacity="0.55"/>
+  </g>
+
+  <!-- Wordmark: "Got-Data" in Syne 800 -->
+  <!-- Using embedded font via style, fallback to generic sans-serif bold -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Syne:wght@800&amp;family=DM+Sans:wght@400;500&amp;display=swap');
+      .wm-main { font-family: 'Syne', 'Arial Black', sans-serif; font-weight: 800; font-size: 38px; letter-spacing: -1.5px; }
+      .wm-sub  { font-family: 'DM Sans', 'Arial', sans-serif; font-weight: 500; font-size: 10.5px; letter-spacing: 1.8px; text-transform: uppercase; }
+    </style>
+  </defs>
+
+  <!-- "Got" -->
+  <text class="wm-main" x="78" y="52" fill="#F0EFF8">Got</text>
+  <!-- "-" in teal -->
+  <text class="wm-main" x="156" y="52" fill="#2DD4BF">-</text>
+  <!-- "Data" -->
+  <text class="wm-main" x="170" y="52" fill="#F0EFF8">Data</text>
+
+  <!-- Tagline -->
+  <text class="wm-sub" x="79" y="68" fill="#5A5770">AI for your world</text>
+</svg>
