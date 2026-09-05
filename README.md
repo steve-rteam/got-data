@@ -27,7 +27,7 @@ A seasoned, public-facing overview of the company and platform — intended for 
 - **Founder & Context Architect:** Steve Quinn
 - **Address:** 680 US Highway 130 #8052, Trenton, NJ 08650, United States
 - **LinkedIn:** [got-data-inc](https://www.linkedin.com/company/got-data-inc)
-- **X:** [@gotdata](https://x.com/gotdata)
+- **X:** [@rTeamAI](https://x.com/rTeamAI)
 
 ## Local preview
 
