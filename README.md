@@ -2,7 +2,7 @@
 
 Public information presence for **[r.Team](https://r.team)** by **Got-Data Inc.**
 
-Fiduciary reasoning for trust teams. Decisions you can defend.
+r.Team, a brand of Got-Data Inc., is a fiduciary reasoning platform that works beside trust administrators, operators, compliance teams and investment advisors. Its Reasoning Engine reads your trust accounts and flags what needs attention, with the reasons cited. A named officer makes every decision, and nothing happens until a person approves it. Each decision is written to a tamper-evident record, a hash-chained log that an examiner can check later without relying on anyone's memory. Beyond the platform, r.Team offers five services that cover the rest of trust administration.
 
 [![Site](https://img.shields.io/badge/site-steve--rteam.github.io%2Fgot--data-2dd4bf?style=flat-square)](https://steve-rteam.github.io/got-data/)
 [![Primary](https://img.shields.io/badge/primary-r.team-111118?style=flat-square)](https://r.team)
